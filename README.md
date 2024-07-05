@@ -6,7 +6,7 @@ Duration : July to August 2024
 
 Project Overview: Basic Calculator in Python
 
-Introduction
+Introduction :
 This project involves the development of a basic calculator using Python. The calculator performs fundamental arithmetic operations such as addition, subtraction, multiplication, and division. The main aim of this project is to demonstrate the use of Python programming for creating simple, functional applications.
 
 Features :
@@ -20,7 +20,7 @@ Features :
 3. Error Handling : Includes basic error handling for invalid inputs and division by zero.
 4. Float Support: All operations handle floating-point numbers, allowing for decimal inputs and results.
 
-# Implementation
+# Implementation :
 
 The program is structured into the following components:
 
@@ -36,7 +36,7 @@ The program is structured into the following components:
 
 4. Output : After performing the desired operation, the program outputs the result to the user.
 
-# Example 
+# Example :
 The user is prompted to enter their choice of operation and the numbers they wish to operate on. The program then performs the calculation and displays the result. For example:
 
 Enter operation (+, -, *, /): +
