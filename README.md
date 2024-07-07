@@ -2,7 +2,7 @@ Name : SATHISH KUMAR BALAGONDA
 Company : CODE TECH IT SOLUTIONS
 ID : CT12DS1551
 Domain : Python Programming
-Duration : July to August 2024
+Duration : July to September 2024
 
 Project Overview: Basic Calculator in Python
 
